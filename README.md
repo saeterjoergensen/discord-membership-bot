@@ -2,7 +2,7 @@
 
 *This project is decommissioned and intentionally non-operational.*
 
-- Originally used to verify Discord members against an external membership API.
+Originally used to verify Discord members against an external membership API.
 
 ## Status
 
