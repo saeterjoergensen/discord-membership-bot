@@ -6,7 +6,7 @@ This repository is intentionally non-operational.
 
 def main() -> None:
     raise SystemExit(
-        "membership_bot is decommissioned. No credentials are loaded and no bot process will start."
+        "discord_membership_bot is decommissioned. No credentials are loaded and no bot process will start."
     )
 
 
