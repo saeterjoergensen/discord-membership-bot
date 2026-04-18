@@ -1,4 +1,4 @@
-# discord_membership_bot
+# Discord Membership Bot
 
 This project is decommissioned and intentionally non-operational.
 
