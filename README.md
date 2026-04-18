@@ -7,6 +7,7 @@ This project is decommissioned and intentionally non-operational.
 - Runtime logic has been removed.
 - The entrypoint exits immediately with a decommission message.
 - No credential loading remains in repository code.
+- Originally used to verify Discord members against an external membership API.
 
 ## security posture
 
